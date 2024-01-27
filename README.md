@@ -18,4 +18,8 @@ OEU: "choice"
 
 The AO chord is never used for phonetic writeouts, leaving it reserved for briefs and such.  
 
+Glides are truncated in Wing theory, meaning only the first part is used. Thus the first stroke of "create" uses AEU.
+
 ##Consonants
+
+Some consonant chords are determined phonetically, others orthographically. In general, the orthographic rules override the phonetic rules (so the 'z' in pizza uses the 'z' chord and not the 'ts' chord)
