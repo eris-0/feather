@@ -1,6 +1,6 @@
 # Wing Theory
 
-Wing is a (currently the only) one-handed steno theory. It is not finished yet, but the progress thus far is presented in this repository. A highly abbreviated cheat sheet of the theory rules is available below; learning resources are planned in the future. Also included are my personal dictionaries; an official starter dictionary is planned in the future. My personal dictionaries reflect my accent, quirks, and style, so they will not be all that usable to a general audience.
+Wing is a (currently the only) one-handed steno theory. It is not finished yet, but the progress thus far is presented in this repository. A highly abbreviated cheat sheet of the theory rules is available below; learning resources are planned in the future. Also included are my personal dictionaries; an official starter dictionary is planned in the future.
 
 # Very brief summary of theory rules:  
 
