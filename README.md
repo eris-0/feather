@@ -24,6 +24,7 @@ Glides from one vowel sound to another are treated as if only the first vowel is
 
 Some consonant chords are determined phonetically, others orthographically. In general, the orthographic rules override the phonetic rules (so the 'z' in pizza uses the 'z' chord and not the 'ts' chord)  
 For clusters, just overlap the chords. This means many chords stand in for multiple clusters (e.g. DM is both 'n' and 'nd')  
+The order does not matter in clusters. The 'rd' of 'hard' and the 'dr' of 'drink' both use DR.  
 Currently, yod is completely ignored in clusters including in the case of yod coalescence. Thus the t in 'tube' uses T regardless of whether you pronounce it 'TOOB', 'CHOOB', or 'TYOOB'.  
 
 
