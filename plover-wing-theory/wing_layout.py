@@ -1,6 +1,6 @@
 from plover.system.english_stenotype import *
 
-KEYS =  ('S-', 'T-' , 'P-', 'K-', 'L-', 'R-', 'A-', 'O-', 'E-', 'U-')
+KEYS =  ('T-', 'F-' , 'D-', 'M-', 'S-', 'R-', 'A-', 'O-', 'E-', 'U-')
 
 IMPLICIT_HYPHEN_KEYS = ()
 SUFFIX_KEYS = ()
