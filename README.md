@@ -18,7 +18,7 @@ OEU: "choice"
 
 The AO chord is never used for phonetic writeouts, leaving it reserved for briefs and such.  
 
-Glides are truncated in Wing theory, meaning only the first part is used. Thus the first stroke of "create" uses AEU.  
+Glides from one vowel sound to another are treated as if only the first vowel is there. Thus the first stroke of "create" uses AEU.  
 
 ## Consonants  
 
