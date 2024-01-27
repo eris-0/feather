@@ -20,6 +20,48 @@ The AO chord is never used for phonetic writeouts, leaving it reserved for brief
 
 Glides are truncated in Wing theory, meaning only the first part is used. Thus the first stroke of "create" uses AEU.
 
-##Consonants
+## Consonants
 
 Some consonant chords are determined phonetically, others orthographically. In general, the orthographic rules override the phonetic rules (so the 'z' in pizza uses the 'z' chord and not the 'ts' chord)
+For clusters, just overlap the chords. This means many chords stand in for multiple clusters (e.g. DM is both 'n' and 'nd')
+Currently, yod is completely ignored in clusters including in the case of yod coalescence. Thus the t in 'tube' uses T regardless of whether you pronounce it 'TOOB', 'CHOOB', or 'TYOOB'.
+
+
+### Phonetic
+T: t
+F: f
+D: d
+M: m
+S: s, z
+TFDM: b
+FM: sh
+TFM: ch
+SR: g
+TFSR: h
+FDM: j
+TF: k
+MR: l*
+DM: n
+DMSR: ng
+TD: p
+TM: v
+FD: w
+*in some cases where r and l conflict, l uses SR:
+TFDMSR: bl
+
+### Orthographic
+R: r
+TFSR: ll
+TFD: q, ck
+TFS: x
+FMR: y
+TDS: z
+FDR: wr
+FDSR: wh
+
+## Additional rules
+- Use an E in the final stroke of words ending in silent e. 'fate' = "FAE/TE"
+- Use a U in the final stroke of words containing the 'ea' or 'ou' digraph. 'feat' = "FAEU/TU", 'out' = "AU/TU"
+- These rules apply together: 'create' = "TFRAEU/TEU"
+phonetic: shun = FDM
+In the event of a conflict, the AO chord serves the same purpose as the asterisk in normal steno.
