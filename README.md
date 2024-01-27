@@ -1,1 +1,3 @@
-A one handed steno theory
+# Very brief summary of theory rules:
+
+
