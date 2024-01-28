@@ -67,6 +67,10 @@ FDSR: wh
 ## Additional rules
 - Use an E in the final stroke of words ending in silent e. 'fate' = "FAE/TE"  
 - Use a U in the final stroke of words containing the 'ea' or 'ou' digraph. 'feat' = "FAEU/TU", 'out' = "AU/TU"  
-- These rules apply together: 'create' = "TFRAEU/TEU"  
+- These rules apply together: 'create' = "TFRAEU/TEU"
+
+
 phonetic: shun = FDM  
 In the event of a conflict, the AO chord serves the same purpose as the asterisk in normal steno.  
+
+compounds ending in "thing" use the 'ing' suffix stroke.
