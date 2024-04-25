@@ -70,7 +70,6 @@ FDSR: wh
 - These rules apply together: 'create' = "TFRAEU/TEU"
 
 
-phonetic: shun = FDM  
 In the event of a conflict, the AO chord serves the same purpose as the asterisk in normal steno.  
 
 compounds ending in "thing" use the 'ing' suffix stroke.
