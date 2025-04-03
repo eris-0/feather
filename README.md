@@ -2,6 +2,12 @@
 
 Feather is a 10-key steno theory that can be used one-handed. It is not finished yet, but the progress thus far is presented in this repository. A highly abbreviated cheat sheet of the theory rules is available below; learning resources are planned in the future. Also included are my personal dictionaries; an official starter dictionary is planned in the future.
 
+# How to use:
+1. install the stenotype extended plugin
+2. From the Plover config folder (accessible via file -> Open config folder in Plover), navigate to plover\plover\plugins\win\Python39\site-packages (assuming windows) and replace extended_stenotype.py with the extended_stenotype.py file from this repo
+3. Get a dictionary (work in progress! all of the dictionaries in the repo are outdated)
+4. Get the flamingo.py python dictionary from this repo to use in fingerspelling
+
 # Very brief summary of theory rules:  
 
 ## Vowels  
