@@ -42,7 +42,7 @@ TFDM: b
 FM: sh  
 TFM: ch  
 SR: g  
-TFSR: h  
+DSR: h  
 FDM: j  
 TF: k  
 MR: l*  
